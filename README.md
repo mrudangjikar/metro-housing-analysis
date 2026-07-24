@@ -23,6 +23,16 @@ For an investor deploying capital in single-family residential, metros differ on
 
 ![Indexed growth](charts/indexed_growth.png)
 
+## Cleveland Deep Dive: ZIP Codes 44111 & 44135
+
+These two ZIP codes on Cleveland's west side are the focus of our real estate investment activity. How do they compare to the Cleveland metro average?
+
+![ZIP outperformance](charts/cleveland_zip_outperformance.png)
+
+Both ZIPs outperform the metro average on price appreciation since 2015, but with different trajectories. **44135 has been consistently ahead since 2019, now 57 percentage points above metro.** 44111 peaked in 2024 and has since retreated closer to the average (27 points ahead). 
+
+The implication: 44135 is a micro-market winner, but not by a dramatic margin — the edge is real but modest. Investment decisions at this level should be anchored on deal-specific factors (property condition, tenant quality, financing terms) rather than betting on ZIP-level tailwinds alone.
+
 ## Metrics
 
 | Metric | Definition |
