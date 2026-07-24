@@ -21,6 +21,8 @@ For an investor deploying capital in single-family residential, metros differ on
 
 **Growth diverged after 2020.** Detroit and Pittsburgh tracked each other closely through 2019, then split sharply — Detroit's CAGR advantage comes almost entirely from the post-2020 period, not from steady outperformance.
 
+![Indexed growth](charts/indexed_growth.png)
+
 ## Metrics
 
 | Metric | Definition |
@@ -29,6 +31,8 @@ For an investor deploying capital in single-family residential, metros differ on
 | Appreciation | CAGR of ZHVI, Jan 2015 – Jun 2026 |
 | Risk | Annualized standard deviation of monthly ZHVI returns |
 | Liquidity | Mean sale-to-list ratio, 2024 onward |
+
+![Gross yield by metro](charts/yield_by_metro.png)
 
 ## Limitations
 
